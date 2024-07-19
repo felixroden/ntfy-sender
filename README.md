@@ -1,5 +1,5 @@
 # NTFY Sender
-<img src="ntfy-sender.png" alt="logo" width="200" height="100">
+<img src="ntfy-sender.png" alt="logo" width="300" height="300">
 
 NTFY Sender is a simple Android application designed to communicate with your NTFY server. This utility app allows you to easily send messages to your NTFY server directly from your Android device.
 
