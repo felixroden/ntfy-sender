@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">NTFY Sender</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="send">Send</string>
+    <string name="message">Message</string>
+    <string name="topic">Topic</string>
+    <string name="by_felix_r_d_n">By Felix Rödén</string>
+    <string name="change_server">Change server</string>
+    <string name="connection_established">Connection established</string>
+    <string name="server_not_reachable">Server is not reachable</string>
+    <string name="request_failed">Request failed. Server is not reachable.</string>'
+    <string name="invalid_server_address">Invalid server address.</string>
+    <string name="connect">Connect</string>
+    <string name="server_address">Server address</string>
+    <string name="ntfy_sender">NTFY SENDER</string>
+    <string name="server">Server:</string>
+
+
+</resources>
