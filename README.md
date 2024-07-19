@@ -20,7 +20,8 @@ The primary goal of this project is to help me become familiar with Android Stud
 1. Open the app and enter your NTFY server URL.
 2. Type your message
 3. Type the topic
-4. Your message will be transmitted to the NTFY server.
+4. Press the "Send" button
+5. Your message will be transmitted to the NTFY server.
 
 ## Contributing
 
