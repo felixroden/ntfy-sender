@@ -2,7 +2,7 @@
 NTFY Sender is a simple Android application designed to communicate with your NTFY server. This utility app allows you to easily send messages to your NTFY server directly from your Android device.
 
 ## Purpose
-The primary goal of this project is to help me become familiar with Android Studio, Java, and Android development. By creating this app, I aim to gain hands-on experience with Android app development and learn more about building and configuring applications for mobile devices.
+The primary goal of this project is to help me become familiar with Android Studio, Java, and Android development.
 
 ## Features
 
