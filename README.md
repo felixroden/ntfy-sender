@@ -1,4 +1,6 @@
 # NTFY Sender
+![Alt text](/ntfy-sender.png)
+
 NTFY Sender is a simple Android application designed to communicate with your NTFY server. This utility app allows you to easily send messages to your NTFY server directly from your Android device.
 
 ## Purpose
