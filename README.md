@@ -25,6 +25,8 @@ The primary goal of this project is to help me learn Java, and Android developme
 4. Press the "Send" button
 5. Your message will be transmitted to the NTFY server.
 
+<img src="images/screenshot.png" alt="logo" width="600">
+
 ## Contributing
 
 Contributions are welcome! 
